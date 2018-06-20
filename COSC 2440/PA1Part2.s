@@ -1,4 +1,3 @@
-;	Name: Paul Uy
 ;	PA1 Part 2
 ;	I set the counter for the loop in R0, the value to store in R1, and the address to store the value in in R2.
 ; 	Then the process is looped until the counter is equal or greater than the variable Size. This is the assembly language version of

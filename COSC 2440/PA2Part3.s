@@ -1,4 +1,3 @@
-;	Name: Paul Uy
 ;	PA2 Part 3
 ;	I store the value of s (2) in R0 and the array into R1. Then I compared R0 to 0, 1, and 2 with a branch to
 ;	their respective functions if s is equal to 0, 1, or 2. For the default, I placed the function under the 
